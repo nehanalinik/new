@@ -6,4 +6,4 @@ Some description!
 this iskd fdj
 
 ## Local Development
-1. Open index.html in you browser..
+1. Open index.html in you browser.
